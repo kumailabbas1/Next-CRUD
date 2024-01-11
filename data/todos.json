@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "005d9290-4f2e-4edc-8441-88c80f34472e",
+      "text": "Go to gym "
+    },
+    {
+      "id": "3fc88e70-9a3f-411d-b6ab-246007a37b03",
+      "text": "Hello"
+    },
+    {
+      "id": "b2518607-6408-4499-b35d-eb0268726feb",
+      "text": "Add New task"
+    },
+    {
+      "id": "e1d2ef21-f72b-4fda-a3aa-ea07935af923",
+      "text": "Good morning"
+    },
+    {
+      "id": "3245c12c-595c-4cd3-9082-39d5f91edf86",
+      "text": "How are you "
+    },
+    {
+      "id": "141c6bc0-db3a-402e-96ba-d63dbab88554",
+      "text": "Helllo"
+    }
+  ]
+}
